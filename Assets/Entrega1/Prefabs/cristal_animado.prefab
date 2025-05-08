@@ -78,6 +78,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: cristal_animado
       objectReference: {fileID: 0}
+    - target: {fileID: 4742473837712756890, guid: 1c920fa9460982943a7e8a39ab1b8940,
+        type: 3}
+      propertyPath: m_LODs.Array.data[0].screenRelativeHeight
+      value: 0.13012388
+      objectReference: {fileID: 0}
+    - target: {fileID: 4742473837712756890, guid: 1c920fa9460982943a7e8a39ab1b8940,
+        type: 3}
+      propertyPath: m_LODs.Array.data[1].screenRelativeHeight
+      value: 0.05199933
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
